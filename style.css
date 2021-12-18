@@ -1,0 +1,22 @@
+#container-nav{
+    background: gray;
+}
+
+
+li{
+    display: inline-block;
+}
+
+
+
+#container-main{
+    background: rgb(196, 196, 91);
+}
+
+
+.container-footer{
+    margin-top: 50em;
+    background: rgb(241, 129, 129);
+    text-align: center;
+}
+
